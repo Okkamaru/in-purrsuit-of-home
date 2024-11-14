@@ -70,22 +70,6 @@ namespace Platformer.Mechanics
             }
             UpdateJumpState();
             base.Update();
-
-            if(Input.GetKeyDown(KeyCode.K))
-            {
-                //attack
-                print("Attacking");
-                animator.SetBool("attack", true);
-
-            }
-            if(Input.GetKeyUp(KeyCode.K))
-            {
-                //attack
-                print("Attacking");
-                animator.SetBool("attack", false);
-
-            }
-
         }
 
         void UpdateJumpState()
@@ -116,7 +100,12 @@ namespace Platformer.Mechanics
                     jumpState = JumpState.Grounded;
                     break;
             }
+
         }
+
+      
+
+
 
         protected override void ComputeVelocity()
         {

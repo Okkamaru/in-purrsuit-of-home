@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 700
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,8 +102,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 033cd7a90bf3f3a41bc1986359a43f44
-      internalID: -1920475992
+      spriteID: 4cfa4434928a7104a8eeb3f81a72436c
+      internalID: -538797386
       vertices: []
       indices: 
       edges: []
@@ -121,10 +121,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_1
       rect:
         serializedVersion: 2
-        x: 22
+        x: 153
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e72a49fcd11a3a43b598c6632005fb4
-      internalID: -238292799
+      spriteID: ef0836d37ca6e98419dea81389097db3
+      internalID: -599548396
       vertices: []
       indices: 
       edges: []
@@ -142,10 +142,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_2
       rect:
         serializedVersion: 2
-        x: 44
+        x: 306
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab1e0049e7470ec41aa7022803863d93
-      internalID: 366489513
+      spriteID: 209547640c4918940ab23588cf83718d
+      internalID: 1807064566
       vertices: []
       indices: 
       edges: []
@@ -163,10 +163,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_3
       rect:
         serializedVersion: 2
-        x: 66
+        x: 459
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 294136090f18bfc4597828c83db83edc
-      internalID: 730157000
+      spriteID: c1c9f82649682da43ae0350326571900
+      internalID: 828794653
       vertices: []
       indices: 
       edges: []
@@ -184,10 +184,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_4
       rect:
         serializedVersion: 2
-        x: 88
+        x: 612
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,8 +195,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b42309ad84ec4c4469ffbf8527144a5d
-      internalID: 1263991067
+      spriteID: 9170c4643ecd92948ad4e2246b000e6d
+      internalID: 1229001272
       vertices: []
       indices: 
       edges: []
@@ -205,10 +205,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_5
       rect:
         serializedVersion: 2
-        x: 110
+        x: 765
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,8 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06c27a47b970ab14a92e4af56918b655
-      internalID: 1753319927
+      spriteID: d4866d06093fef244bcdec72e4d81385
+      internalID: 1086191507
       vertices: []
       indices: 
       edges: []
@@ -226,10 +226,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_6
       rect:
         serializedVersion: 2
-        x: 132
+        x: 918
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,8 +237,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d35ecf9825fdb5a4db85af8eab35767d
-      internalID: -1340499600
+      spriteID: d24c9183605afa64ab0934e76a667d22
+      internalID: 1440960835
       vertices: []
       indices: 
       edges: []
@@ -247,10 +247,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_7
       rect:
         serializedVersion: 2
-        x: 154
+        x: 1071
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,8 +258,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 943512258e62e4b47836dc498a0673d1
-      internalID: -1221991538
+      spriteID: 298270d1c5f2ffd49bbe702093912f35
+      internalID: 1420535010
       vertices: []
       indices: 
       edges: []
@@ -268,10 +268,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_8
       rect:
         serializedVersion: 2
-        x: 176
+        x: 1224
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,8 +279,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bd89e2c384a31e4fbe75d27b300c10c
-      internalID: -1884027842
+      spriteID: 2680dc3bcec338143abe9da35b67fd97
+      internalID: 710240684
       vertices: []
       indices: 
       edges: []
@@ -289,10 +289,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_9
       rect:
         serializedVersion: 2
-        x: 198
+        x: 1377
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,8 +300,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3c01c8b7f9b53142a9543c4b9ea2700
-      internalID: 359585343
+      spriteID: 2d0c4471d8ac48d49b0ee3c05fa3ffc6
+      internalID: -31472337
       vertices: []
       indices: 
       edges: []
@@ -310,10 +310,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_10
       rect:
         serializedVersion: 2
-        x: 220
+        x: 1530
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,8 +321,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03f606dbe59ca8747807d649bb693e2e
-      internalID: -512154202
+      spriteID: 814ae63c09577f7429597493dc4bda1c
+      internalID: -811143777
       vertices: []
       indices: 
       edges: []
@@ -331,10 +331,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_11
       rect:
         serializedVersion: 2
-        x: 242
+        x: 1683
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,8 +342,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28139340f01a6a347bc36e8d988aefca
-      internalID: 750890983
+      spriteID: c44439afe6a29b144a0458e2c696ab9d
+      internalID: 1877206458
       vertices: []
       indices: 
       edges: []
@@ -352,10 +352,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_12
       rect:
         serializedVersion: 2
-        x: 264
+        x: 1836
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,8 +363,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 706af66ccc9aaa94e8f93b9e57cd9a28
-      internalID: 765906964
+      spriteID: 7e18c9592fac2814ebad974b63e73df1
+      internalID: 1322148153
       vertices: []
       indices: 
       edges: []
@@ -373,10 +373,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_13
       rect:
         serializedVersion: 2
-        x: 286
+        x: 1989
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,8 +384,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9da6b0cdb30b8824c930c4e0a38deb7f
-      internalID: -1565878072
+      spriteID: 3a80685d4d4759a41b880905d377d398
+      internalID: 228500275
       vertices: []
       indices: 
       edges: []
@@ -394,10 +394,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_14
       rect:
         serializedVersion: 2
-        x: 308
+        x: 2142
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,8 +405,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 095889d53a4eaa34583a6cb165826201
-      internalID: -1855214980
+      spriteID: eb317ad4fe908524fa61e7878dabf454
+      internalID: -504148214
       vertices: []
       indices: 
       edges: []
@@ -415,10 +415,10 @@ TextureImporter:
       name: SILLY SAL IDLE!!_15
       rect:
         serializedVersion: 2
-        x: 330
+        x: 2295
         y: 0
-        width: 22
-        height: 57
+        width: 153
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,8 +426,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 137c5ad98bd602e48b4a36694303e83d
-      internalID: -1072704303
+      spriteID: d3664a44b42c9a149a90757b3c04cf2e
+      internalID: 1413467748
       vertices: []
       indices: 
       edges: []
@@ -443,22 +443,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SILLY SAL IDLE!!_0: -1920475992
-      SILLY SAL IDLE!!_1: -238292799
-      SILLY SAL IDLE!!_10: -512154202
-      SILLY SAL IDLE!!_11: 750890983
-      SILLY SAL IDLE!!_12: 765906964
-      SILLY SAL IDLE!!_13: -1565878072
-      SILLY SAL IDLE!!_14: -1855214980
-      SILLY SAL IDLE!!_15: -1072704303
-      SILLY SAL IDLE!!_2: 366489513
-      SILLY SAL IDLE!!_3: 730157000
-      SILLY SAL IDLE!!_4: 1263991067
-      SILLY SAL IDLE!!_5: 1753319927
-      SILLY SAL IDLE!!_6: -1340499600
-      SILLY SAL IDLE!!_7: -1221991538
-      SILLY SAL IDLE!!_8: -1884027842
-      SILLY SAL IDLE!!_9: 359585343
+      SILLY SAL IDLE!!_0: -538797386
+      SILLY SAL IDLE!!_1: -599548396
+      SILLY SAL IDLE!!_10: -811143777
+      SILLY SAL IDLE!!_11: 1877206458
+      SILLY SAL IDLE!!_12: 1322148153
+      SILLY SAL IDLE!!_13: 228500275
+      SILLY SAL IDLE!!_14: -504148214
+      SILLY SAL IDLE!!_15: 1413467748
+      SILLY SAL IDLE!!_2: 1807064566
+      SILLY SAL IDLE!!_3: 828794653
+      SILLY SAL IDLE!!_4: 1229001272
+      SILLY SAL IDLE!!_5: 1086191507
+      SILLY SAL IDLE!!_6: 1440960835
+      SILLY SAL IDLE!!_7: 1420535010
+      SILLY SAL IDLE!!_8: 710240684
+      SILLY SAL IDLE!!_9: -31472337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

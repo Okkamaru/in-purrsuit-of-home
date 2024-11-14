@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,8 +102,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bc07ea4a515a7a4ca8482e6fb01b2f8
-      internalID: -1667966676
+      spriteID: 6e9bbf6d58c2c9f4aaa407bec2815049
+      internalID: 1884816621
       vertices: []
       indices: 
       edges: []
@@ -121,10 +121,10 @@ TextureImporter:
       name: SALLY walk sheet-sheet_1
       rect:
         serializedVersion: 2
-        x: 50
+        x: 153
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8b69b672833a394ba2eece8c2502e95
-      internalID: -2108685898
+      spriteID: d8665aa9154a5e147939c2173898de10
+      internalID: -336464960
       vertices: []
       indices: 
       edges: []
@@ -142,10 +142,10 @@ TextureImporter:
       name: SALLY walk sheet-sheet_2
       rect:
         serializedVersion: 2
-        x: 100
+        x: 306
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 724a64db129480546870f9d8e716e551
-      internalID: 1403759482
+      spriteID: 8afde8fc235b85344ba9eae90620a93a
+      internalID: -1871662738
       vertices: []
       indices: 
       edges: []
@@ -163,10 +163,10 @@ TextureImporter:
       name: SALLY walk sheet-sheet_3
       rect:
         serializedVersion: 2
-        x: 150
+        x: 459
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebd8e6dccccbaad4d9db7955265191bc
-      internalID: -2073752559
+      spriteID: 59046023422e09b438ff57816a61ecfb
+      internalID: -1719318868
       vertices: []
       indices: 
       edges: []
@@ -184,10 +184,10 @@ TextureImporter:
       name: SALLY walk sheet-sheet_4
       rect:
         serializedVersion: 2
-        x: 200
+        x: 612
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,8 +195,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2eebbbe18ff598843abad066c0f3c642
-      internalID: 127008873
+      spriteID: e36702a4ed0d4744e89169e2a859d9d9
+      internalID: -1752952684
       vertices: []
       indices: 
       edges: []
@@ -205,10 +205,10 @@ TextureImporter:
       name: SALLY walk sheet-sheet_5
       rect:
         serializedVersion: 2
-        x: 250
+        x: 765
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,8 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 646c1f6d0a2a0054b90cc8fdc02057be
-      internalID: 1209447141
+      spriteID: d7d080d89a65673409aae42e4c3372ef
+      internalID: 445324132
       vertices: []
       indices: 
       edges: []
@@ -226,10 +226,10 @@ TextureImporter:
       name: SALLY walk sheet-sheet_6
       rect:
         serializedVersion: 2
-        x: 300
+        x: 918
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,8 +237,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 692bd347c61309f46a1e69a057569a29
-      internalID: -578796151
+      spriteID: 914dc0575e9905b49be6bdbebdcad73c
+      internalID: 300972062
       vertices: []
       indices: 
       edges: []
@@ -247,10 +247,10 @@ TextureImporter:
       name: SALLY walk sheet-sheet_7
       rect:
         serializedVersion: 2
-        x: 350
+        x: 1071
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,8 +258,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44d7a39285ac6f94eaa5f3ad2eb374b3
-      internalID: 1692851080
+      spriteID: ae5542f2a37f0c14aaab481e5390f866
+      internalID: 283657759
       vertices: []
       indices: 
       edges: []
@@ -268,10 +268,10 @@ TextureImporter:
       name: SALLY walk sheet-sheet_8
       rect:
         serializedVersion: 2
-        x: 400
+        x: 1224
         y: 0
-        width: 50
-        height: 80
+        width: 153
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,8 +279,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72490816dcd1e2f42b2ccd75e007cbc5
-      internalID: 418465298
+      spriteID: ce25ff65196f7cb44963ed384cd543fa
+      internalID: 1684524733
       vertices: []
       indices: 
       edges: []
@@ -296,15 +296,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SALLY walk sheet-sheet_0: -1667966676
-      SALLY walk sheet-sheet_1: -2108685898
-      SALLY walk sheet-sheet_2: 1403759482
-      SALLY walk sheet-sheet_3: -2073752559
-      SALLY walk sheet-sheet_4: 127008873
-      SALLY walk sheet-sheet_5: 1209447141
-      SALLY walk sheet-sheet_6: -578796151
-      SALLY walk sheet-sheet_7: 1692851080
-      SALLY walk sheet-sheet_8: 418465298
+      SALLY walk sheet-sheet_0: 1884816621
+      SALLY walk sheet-sheet_1: -336464960
+      SALLY walk sheet-sheet_2: -1871662738
+      SALLY walk sheet-sheet_3: -1719318868
+      SALLY walk sheet-sheet_4: -1752952684
+      SALLY walk sheet-sheet_5: 445324132
+      SALLY walk sheet-sheet_6: 300972062
+      SALLY walk sheet-sheet_7: 283657759
+      SALLY walk sheet-sheet_8: 1684524733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
